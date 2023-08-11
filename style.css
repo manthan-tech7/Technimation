@@ -118,7 +118,8 @@ li{
     fill: #FFFFFF;
 }
 
-.navbar-toggler-icon{
+ .my-toggle {
     background-color: black;
+    
     
 }
